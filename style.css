@@ -1,0 +1,19 @@
+body {
+    background-color: hsl(0, 0%, 22%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Megrim', cursive;
+}
+
+
+
+h1 {
+    color: hsla(0, 0%, 0%, 1);
+    text-shadow: 2px 2px hsla(0, 0%, 55%, 0.78);
+    text-align: center;
+    font-size: 27px;
+    font-family: 'Russo One', sans-serif;
+}
